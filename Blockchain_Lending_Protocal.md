@@ -20,7 +20,7 @@
    What are the possibilities and opportunities for unsecured lending products in DeFi? Specifically, how could a 'trust scoring system' be developed in a decentralized environment?
 
 ### 7. **DeFi's Appeal to the Unbanked Population**
-   Considering that a significant portion of the U.S. population is unbanked, how might these individuals react to DeFi protocols? Observing traditional banking statistics, such as the subprime borrowing/saving ratio, suggests that DeFi could offer more efficient access to funds for those in need.
+   Considering that a significant portion of the U.S. population is unbanked, how might these individuals react to DeFi protocols? Observing traditional banking statistics, such as the subprime borrowing/saving ratio, suggests that DeFi could offer more efficient access to funds for those in need.I observed the borrowing/saving ratio = 35%/5% yielding factor 7 versus 10%/6% = 1.X, which greatly improved the effciency of the money and remove a lot of operational costs from the traditional finance institutions. 
 
 ### 8. **Managing Risks in Long-Term Borrowing**
    What strategies exist to mitigate the risks associated with collateral value shocks in long-term borrowing scenarios, such as a two-year repayment period? How do protocol risks that don’t typically appear in traditional banking affect the stability of these long-term financial commitments?
