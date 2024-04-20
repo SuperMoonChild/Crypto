@@ -1,14 +1,37 @@
 **Questions&Obeservation:** 
-1. How does Variable APR work on the platform? Like Dynamic APR for deposit and borrowing rates?
-2. How can you tell some chains are private or public? (Maybe very stupid question) 
-3. How does the stable APR calculate without Terms (how to decide terms)
-4. If a customer/traders takes up a variable APR product (for example USDT as collateral, how does the APR lock up for a certain period of time?) Not sure how that works with smart contract.
-5. If I lend a product out, and pay the interest, who actually gets the interest? In a traditional setting, the banks will get the interests for operation costs?
-6. Unsecure Products Possibility and opportunities, provide some food for thoughts in the following businsss. It is very interesting how to develop 'trust scoring system in the Decentralized context'.
-7. It is very interesting how the unbank population react to this protocals, since US has 1/3 of the population is unbanked and there is a great market there. If you observe the banking with subprime of borrowing/saving ratio is almost 35%/5% = 7 factor versus 10% (top 10 Vol avg rate)/7% = 1.X, which improves great effciency to the customers who really need the money. One thought is that it needs to easy access to the money.
-8. The major risks of the borrowing lies in the Collateral Value shock which will make the situation of undercollateral, therefore, how to mitigate the risk of the borrowing for long term borrowing like 2 years repayment. It seems to me these kind of assets will be good for a very short term period of time like Payday Loan? Another consideration will be the Protocal risks that did not appear for the banking, because once the contract is sidgned, the contract has no recourse terms for traditional lending. However, it seems to me the protocal can change along the way and will greatly increase risk exposure if the TERM is relatively long? 
-9. There are abitrage opportunities for cross-chain borrowing and lending. If I borrow cheap money in one chain and hedge against the high yield in another chain, is that possible?I notice that in COMPOUND protocal, the lending rate is much lower than AAVE,then I can lend the USDT in COMPOUND and deposit in AAVE, not sure whether this strategy works. Also I am not sure that between chains, the products price will slightly varied based on cost effciency. https://app.compound.finance/markets/
-10. If it is under centralized environment, does is make P2P possible in a real sense. Let'say, I have some spare money on the blockchain and I will like to lend out to another 'unknown' person, then I can price with market + I think the best price premiun and post them on the matching algorithms on the market( custom contracts, because most of the chain are standardized) , and I will get some 'return' if my loan will get repaid ( But I understand I need the coutnerparty to put some collateral beforehead). I am not sure that product is already exists in the market yet. I feel like there are great opportunities here in the market. 
+Certainly! I've reformatted and revised your questions for clarity and coherence:
+
+### 1. **Understanding Variable APR on DeFi Platforms**
+   How does Variable APR function on DeFi platforms? Specifically, how are dynamic APRs for deposits and borrowing rates calculated and adjusted?
+
+### 2. **Distinguishing Between Private and Public Blockchains**
+   How can you identify whether a blockchain is private or public? This might seem like a basic question, but clarity here would be helpful.
+
+### 3. **Calculating Stable APR Without Specific Terms**
+   How is the stable APR calculated when terms are not explicitly defined? What criteria are used to decide these terms in the absence of traditional loan agreements?
+
+### 4. **Variable APR Products and Lock-In Periods**
+   If a customer or trader opts for a variable APR product, using USDT as collateral for instance, how does the APR lock for a certain period? How is this managed within a smart contract?
+
+### 5. **Distribution of Interest in DeFi Lending**
+   In traditional finance, banks collect interest to cover operational costs. In a DeFi context, who receives the interest paid on a loaned product?
+
+### 6. **Opportunities for Unsecured Products in DeFi**
+   What are the possibilities and opportunities for unsecured lending products in DeFi? Specifically, how could a 'trust scoring system' be developed in a decentralized environment?
+
+### 7. **DeFi's Appeal to the Unbanked Population**
+   Considering that a significant portion of the U.S. population is unbanked, how might these individuals react to DeFi protocols? Observing traditional banking statistics, such as the subprime borrowing/saving ratio, suggests that DeFi could offer more efficient access to funds for those in need.
+
+### 8. **Managing Risks in Long-Term Borrowing**
+   What strategies exist to mitigate the risks associated with collateral value shocks in long-term borrowing scenarios, such as a two-year repayment period? How do protocol risks that don’t typically appear in traditional banking affect the stability of these long-term financial commitments?
+
+### 9. **Arbitrage Opportunities Across Different Chains**
+   Are there arbitrage opportunities in borrowing from one chain at a lower rate and lending on another chain at a higher rate? For example, could one borrow USDT on Compound at a lower rate and then lend it on AAVE at a higher rate? How do price variations between chains impact the efficiency of such strategies?
+
+### 10. **P2P Lending in a Centralized Blockchain Environment**
+   Is peer-to-peer (P2P) lending genuinely feasible in a centralized blockchain environment? Could I, having spare blockchain funds, lend to an 'unknown' person by setting a competitive interest rate above the market, facilitated by custom contract algorithms? Are there existing platforms that support this type of P2P lending where returns are contingent on loan repayment and initial collateral posting?
+
+
 
 ## Major Lending Protocols on the Ethereum Blockchain
 
