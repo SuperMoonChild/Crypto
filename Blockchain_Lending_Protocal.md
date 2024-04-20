@@ -1,5 +1,5 @@
 **Questions&Obeservation:** 
-Certainly! I've reformatted and revised your questions for clarity and coherence:
+
 
 ### 1. **Understanding Variable APR on DeFi Platforms**
    How does Variable APR function on DeFi platforms? Specifically, how are dynamic APRs for deposits and borrowing rates calculated and adjusted?
